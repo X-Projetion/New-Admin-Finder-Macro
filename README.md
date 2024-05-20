@@ -1,49 +1,59 @@
-# Adminfindersan
+# adfindersan
 
 [![made-with-Python](https://img.shields.io/badge/made%20with-Python-blue.svg)](https://www.python.org/)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![issues](https://img.shields.io/github/issues/X-Projetion/searchsan?color=blue)](https://github.com/X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version/issues)
-
 
 <p align="center">
     <img src="admin-finder.png" alt="Adminfindersan" width="60%">
 </p>
 <h4 align="center">Fast passive Finder Admin enumeration tool.</h4>
 
-
-
-# Admin Finder Tool
-Admin finder is a tool that functions to search for the login page of a website. It has a simple modular architecture and is optimized for speed. The passive model guarantees speed and confidentiality that penetration testers and bug bounty hunters can take advantage of. This script is designed to make it easier to find admin logins or admin logins that use paths or wordlists that you create yourself and this admin search tool uses macros to make it easier to find your admin logins, these macros use tags in your wordlist file which will later be used.
-The macro name used is 
-
+Adfindersan is an admin finder tool or looking for admin logins to make daily activities easier.
+This script is designed to make it easier to search for admin logins or admin logins that use paths or wordlists that you create yourself and this admin search tool uses macros to make it easier to find your admin login, these macros use tags in your wordlist file which will later be used.
+The macro name used is
 - [Lutfifakee SUB]
 - [Lutfifakee_SUBG]
 - [Lutfifakee SUBC]
 
-# Macro Function
-The function of the macro tag is to retrieve the path from the URL.
-Like https://web.lutfifakee.com/ the macro will take part of the subdomain URL which will later be used to find the path or admin login or admin login page.
+---
 
+## Resources
 
-# How to use it
+- [Installation](#installation)
+- [Installation](#How to use it)
+- [Usage](#usage)
+- [Usage](#macro)
+- [Usage](#Disclaimer)
 
+## Installation
+
+```bash
+git clone https://github.com/X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version && cd CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version
+pip install -r requirements.txt
+```
+
+## Installation
+```
+git clone https://github.com/X-Projetion/Admin-Finder-Tool
+```
+
+## How to use it
 - apt install python3
 - pip install requests
 - python3 find.py
 
 and enter the complete URL such as https://web.lutfifakee.com/ must use [/] at the end of the url.
 
-
-# Installation
- ```
-git clone https://github.com/X-Projetion/Admin-Finder-Tool
-```
-# Support System
-WINDOWS ✔️<br>
-LINUX / TERMINAL✔️
+## Macro
+**[-] Could not extract forminator_nonce** <br>
+The function of the macro tag is to retrieve the path from the URL.
+Like https://web.lutfifakee.com/ the macro will take part of the subdomain URL which will later be used to find the path or admin login or admin login page.
 
 
-# Thanks
+## Disclaimer
+The script provided is for educational purposes only, I am not responsible for your actions.
 
-Admin Finder was created with 🖤 by Lutfifakee. Community contributions have made this project what it is today.
-Follow Me <a href="https://www.instagram.com/lutfifakee/">Lutfifakee</a>
+<br>
+
+[instagram](https://www.instagram.com/lutfifakee/) - Made by X-Projetion
