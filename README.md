@@ -1,8 +1,13 @@
+# Adminfindersan
 
-<h1 align="center">
-  <img src="admin-finder.png" alt="admin finder" width="500px">
-  <br>
-</h1>
+[![made-with-Python](https://img.shields.io/badge/made%20with-Python-blue.svg)](https://www.python.org/)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![issues](https://img.shields.io/github/issues/X-Projetion/searchsan?color=blue)](https://github.com/X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version/issues)
+
+
+<p align="center">
+    <img src="admin-finder.png" alt="Adminfindersan" width="60%">
+</p>
 <h4 align="center">Fast passive Finder Admin enumeration tool.</h4>
 
 
