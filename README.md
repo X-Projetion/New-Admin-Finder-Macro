@@ -21,10 +21,9 @@ The macro name used is
 ## Resources
 
 - [Installation](#installation)
-- [Installation](#usage)
 - [Usage](#usage)
-- [Usage](#macro)
-- [Usage](#Disclaimer)
+- [macro](#macro)
+- [Disclaimer](#Disclaimer)
 
 ## Installation
 
@@ -34,9 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-- apt install python3
-- pip install requests
-- python3 find.py
+- python find.py
 
 and enter the complete URL such as https://web.lutfifakee.com/ must use [/] at the end of the url.
 
