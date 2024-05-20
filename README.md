@@ -47,9 +47,8 @@ Like https://web.lutfifakee.com/ the macro will take part of the subdomain URL w
 The script provided is for educational purposes only, I am not responsible for your actions.
 
 <br>
-
-[instagram](https://www.instagram.com/lutfifakee/) - Made by X-Projetion
 <a href="https://www.instagram.com/lutfifakee/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" style="width: 20px;">
     </a>
-    <p style="font-size: 14px;">Lutfifakee</p>
+    <br>
+    Made by X-Projetion
