@@ -21,7 +21,7 @@ The macro name used is
 ## Resources
 
 - [Installation](#installation)
-- [Installation](#How to use it)
+- [Installation](#usage)
 - [Usage](#usage)
 - [Usage](#macro)
 - [Usage](#Disclaimer)
@@ -29,16 +29,11 @@ The macro name used is
 ## Installation
 
 ```bash
-git clone https://github.com/X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version && cd CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version
+git clone https://github.com/X-Projetion/adfindersan && cd adfindersan
 pip install -r requirements.txt
 ```
 
-## Installation
-```
-git clone https://github.com/X-Projetion/Admin-Finder-Tool
-```
-
-## How to use it
+## Usage
 - apt install python3
 - pip install requests
 - python3 find.py
