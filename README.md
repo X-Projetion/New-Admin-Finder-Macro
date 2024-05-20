@@ -22,7 +22,7 @@ The macro name used is
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [macro](#macro)
+- [Macro](#macro)
 - [Disclaimer](#Disclaimer)
 
 ## Installation
